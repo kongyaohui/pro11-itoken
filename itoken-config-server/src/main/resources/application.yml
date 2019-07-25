@@ -6,8 +6,8 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/kongyaohui/itoken-config.git
-          search-paths: respo
+          uri: https://github.com/kongyaohui/pro11-itoken.git
+          search-paths: itoken-config-server/respo
           username: kongyaohui
           password: kyh828315
   zipkin:
